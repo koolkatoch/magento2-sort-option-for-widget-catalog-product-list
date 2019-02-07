@@ -1,1 +1,2 @@
-# magento2-sort-option-for-widget-catalog-product-list
+# Magento2 Sort Option For Widget Catalog Product List
+
