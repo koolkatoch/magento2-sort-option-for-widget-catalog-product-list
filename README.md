@@ -1,0 +1,1 @@
+# magento2-sort-option-for-widget-catalog-product-list
